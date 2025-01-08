@@ -28,8 +28,8 @@ To run this project, follow these steps:
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone '#'
-   cd #
+   git clone 'https://github.com/stuartnono/remdapp.git'
+   cd https://github.com/stuartnono/remdapp.git
    ```
 
 2. Set up the server:
