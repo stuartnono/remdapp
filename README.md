@@ -21,6 +21,7 @@ Due to the large size of executable files (>200MB), they are not uploaded to thi
 - **React**: For reusable design components.
 - **Redux Toolkit**: For handling React states.
 - **TailwindCSS**: For designing the user interface.
+- **Mongoose**: For creating and authenticating user accounts.
 
 ## Running Project
 To run this project, follow these steps:
@@ -77,7 +78,7 @@ To prevent installation issues on Windows:
    ```
    If issues persist, consider downgrading Node.js or referring to RobotJs GitHub issues.
 
-## Generating EXE / APP / Linux Executable Files :memo:
+## Generating EXE / APP / Windows Executable Files :memo:
 1. Modify `electron.js`:
    ```javascript
    // Comment this line
